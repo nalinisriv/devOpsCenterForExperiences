@@ -8,7 +8,7 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "sectionConfig" : "{\"UUID\":\"c636aa69-288d-4d2f-ad93-b06234b99f01\",\"columns\":[{\"UUID\":\"32ba70e0-d90c-48c4-a0c8-3b259d78fc92\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+            "sectionConfig" : "{\"UUID\":\"f474ecec-8408-448b-897c-d4a7619f825a\",\"columns\":[{\"UUID\":\"63db255b-0d8f-4d7c-bbde-584c39320422\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
@@ -70,26 +70,26 @@
                 "width" : 100
               },
               "definition" : "dxp_form:contactSupportForm",
-              "id" : "e5710756-0bd1-4bef-befc-38e891b58f50",
+              "id" : "8626a596-6d2d-4756-aa12-9b9fba0ce874",
               "type" : "component"
             }, {
               "attributes" : {
                 "richTextValue" : "<div style=\"display: flex; justify-content: center; align-items: center; margin: 50px 0; flex-direction: column; text-align: center;\"><div style=\"background-image: url(assets/img/desert.svg); background-size: cover; background-position: center; height: 300px; width: 100%; max-width: 600px; min-width: 300px;\"></div><h1 class=\"slds-text-heading_medium slds-p-bottom_x-small\">Start Building Your Page</h1> <div>Drag and drop a component into the content slots.</div></div>"
               },
               "definition" : "community_builder:htmlEditor",
-              "id" : "d7381819-f00c-4df2-8849-3edabe583713",
+              "id" : "b5c71877-4f5c-464f-88c1-34d5157c7a1c",
               "type" : "component"
             } ],
-            "id" : "32ba70e0-d90c-48c4-a0c8-3b259d78fc92",
+            "id" : "63db255b-0d8f-4d7c-bbde-584c39320422",
             "name" : "col1",
             "title" : "Column 1",
             "type" : "region"
           } ],
           "definition" : "community_layout:section",
-          "id" : "c636aa69-288d-4d2f-ad93-b06234b99f01",
+          "id" : "f474ecec-8408-448b-897c-d4a7619f825a",
           "type" : "component"
         } ],
-        "id" : "69b0ead8-0fee-4d1d-ba6d-4f7b4d15e94d",
+        "id" : "1188ff73-26e9-4717-9cee-8b59c4d6d2b2",
         "name" : "content",
         "title" : "Content",
         "type" : "region"
@@ -102,16 +102,16 @@
             "recordId" : "{!recordId}"
           },
           "definition" : "community_builder:seoAssistant",
-          "id" : "6c5c1d2c-fea2-482d-ad54-3a217c10025a",
+          "id" : "d2d740b0-ccc5-48bf-abb8-5c42b18ab0d7",
           "type" : "component"
         } ],
-        "id" : "b12ee422-0534-4cd6-a8cf-fab55271e590",
+        "id" : "ec09fabd-e8cf-4faf-a7a4-5cfb6e019c67",
         "name" : "sfdcHiddenRegion",
         "title" : "sfdcHiddenRegion",
         "type" : "region"
       } ],
       "definition" : "community_layout:sldsFlexibleLayout",
-      "id" : "9ca4a240-7aa3-492a-900e-33576e1e3a26",
+      "id" : "e0905953-b075-4f57-a151-b9cf1cef9c93",
       "type" : "component"
     },
     "themeLayoutType" : "Inner",
