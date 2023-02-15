@@ -13,13 +13,6 @@
           "children" : [ {
             "children" : [ {
               "attributes" : {
-                "richTextValue" : "Replace this text with content of your own."
-              },
-              "definition" : "community_builder:richTextEditor",
-              "id" : "3e9d7b8b-c2e0-4fdf-a927-670020f8007a",
-              "type" : "component"
-            }, {
-              "attributes" : {
                 "buttonAlignment" : "left",
                 "buttonSize" : "standard",
                 "buttonText" : "Submit",
