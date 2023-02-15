@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Customer Service for Capricorn Coffee</label>
+    <site>
+        <urlPathPrefix>CS</urlPathPrefix>
+    </site>
+    <space>site/Customer_Service_for_Capricorn_Coffee1</space>
+</DigitalExperienceConfig>
